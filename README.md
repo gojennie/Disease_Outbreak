@@ -1,6 +1,6 @@
-# Discovering Disease Outbreaks Starting Repository
+## In a Nutshell
 
-Starter repository for Manning PBC: Discovering and Tracking Disease Outbreaks with Data Science and Python
+ Let's discover and track disease outbreaks with Data Science and Python! A repository consisting of Jupyter Notebooks and 650 rows of News Headlines data.
 
 ## Setup
 
