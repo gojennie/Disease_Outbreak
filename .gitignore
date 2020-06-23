@@ -71,6 +71,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+1-Extracting City and Country Information from News Headlines(ManningSolution).ipynb
 
 # pyenv
 .python-version
